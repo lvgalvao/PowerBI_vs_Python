@@ -1,0 +1,63 @@
+cod.categoria,categoria,cod.dre
+1.01.01,Venda do Serviço A,101
+1.01.02,Venda do Serviço B,101
+1.02.02,Rendimentos de Aplicações,103
+1.04.02,Reembolso de Despesas,103
+1.05.01,Venda de Produto,102
+2.01.02,Frete,401
+2.01.03,Matérias Primas,402
+2.01.04,Armazenagem Externa,402
+2.01.05,Compras de Brindes para Produtos,402
+2.01.06,Embalagens,402
+2.02.01,Comissões,603
+2.02.03,Anúncios e Propagandas,601
+2.02.04,Compras de Brindes para Serviços,604
+2.02.05,Impressão Diversas,604
+2.03.01,Salários,801
+2.03.03,Férias,801
+2.03.04,Rescisões,801
+2.03.05,13º Salário,801
+2.03.06,GPS - INSS,801
+2.03.07,FGTS,801
+2.03.08,IRRF,801
+2.03.10,Assistência Médica,801
+2.03.12,Vale Alimentação,801
+2.03.13,Seguro de Vida,801
+2.03.14,Uniformes,801
+2.03.15,Treinamento e desenvolvimento,801
+2.03.16,Exames Ambulatoriais,801
+2.04.01,Aluguel,802
+2.04.04,Energia Elétrica,804
+2.04.05,Telefonia Móvel,804
+2.04.06,Material de Escritório,805
+2.04.07,Internet,804
+2.04.08,Seguros de imóveis,802
+2.04.09,IPTU,802
+2.04.11,Taxas Cartoriais,805
+2.04.13,Materiais de Limpeza,805
+2.04.14,Copa e Cozinha,805
+2.04.15,Doações,805
+2.05.04,Tarifas Bancárias,805
+2.05.05,Tarifas de Cartões de Crédito,602
+2.06.01,ICMS,202
+2.06.03,PIS,202
+2.06.04,COFINS,202
+2.06.05,IRPJ,1001
+2.06.06,CSLL,1002
+2.06.07,ISS,202
+2.06.08,DAS,1003
+2.06.09,Outros Impostos,203
+2.07.01,Máquinas,1201
+2.07.04,Equipamentos,1201
+2.07.05,Mobiliários,1202
+2.07.06,Comunicação Interna,805
+2.08.02,Outros Gastos Gerais,805
+2.09.01,Reembolso a Clientes,201
+2.11.01,Utensílios,805
+2.12.02,Infraestrutura de TI,803
+2.12.03,Limpeza e Conservação,805
+2.12.04,Consultoria Jurídica,805
+2.12.05,Contabilidade,805
+2.13.01,Licenças de Softwares,803
+2.13.02,Outros Serviços de TI,803
+2.14.03,Serviço de taxi,805

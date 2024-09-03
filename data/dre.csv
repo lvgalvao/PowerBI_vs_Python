@@ -1,0 +1,41 @@
+cod.dre,descricao,operacao,tipo
+100,RECEITA BRUTA,,LS
+101,Receita com Serviços,( + ),A
+102,Receita com Produtos,( + ),A
+103,Outras Receitas,( + ),A
+200,DEDUÇÕES DA RECEITA,,LS
+201,Devoluções e Reembolsos,( - ),A
+202,Impostos sobre Faturamento,( - ),A
+203,Outras Deduções da Receita,( - ),A
+300,RECEITA LÍQUIDA,,ST
+399,,,BLANK
+400,CUSTO DE PRODUTOS,,LS
+401,Frete,( - ),A
+402,Outros Custos de Produtos,( - ),A
+500,LUCRO BRUTO,,ST
+599,,,BLANK
+600,DESPESAS VARIÁVEIS,,LS
+601,Anúncios e Propagandas,( - ),A
+602,Tarifas Meios de Pagamento,( - ),A
+603,Comissões,( - ),A
+604,Outras Despesas Variáveis,( - ),A
+700,MARGEM DE CONTRIBUIÇÃO,,ST
+799,,,BLANK
+800,DESPESAS FIXAS,,LS
+801,Pessoal ,( - ),A
+802,Ocupação,( - ),A
+803,TI/SAAS,( - ),A
+804,Serviços,( - ),A
+805,Outros Custos Operacionais,( - ),A
+900,RESULTADO OPERACIONAL,,ST
+999,,,BLANK
+1000,IMPOSTOS SOBRE LUCRO,,LS
+1001,IRPJ,( - ),A
+1002,CSLL,( - ),A
+1003,DAS,( - ),A
+1100,LUCRO LÍQUIDO,,ST
+1199,,,BLANK
+1200,OUTROS ATIVOS,,LS
+1201,Máquinas e Equipamentos,( - ),A
+1202,Móveis e Outras Mobílias,( - ),A
+1300,CAIXA,,ST
